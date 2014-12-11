@@ -1,0 +1,23 @@
+html {
+    height: 100%;
+}
+body {
+    height: 100%;
+    padding-top: 50px;
+}
+
+#chat-list ul {
+    list-style: none;
+}
+
+#input {
+    bottom: 120px;
+    position: fixed;
+}
+
+.footer {
+    bottom: 0;
+    height: 100px;
+    position: fixed;
+    width: 100%;
+}
